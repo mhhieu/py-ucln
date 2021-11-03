@@ -1,2 +1,2 @@
-# py-ucln.github.io
-how to find greatest common divisor
+# py-ucln
+cách tìm ước chung lớn nhất trong python
